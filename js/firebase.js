@@ -2,13 +2,13 @@ import {getAuth, signInWithEmailAndPassword, createUserWithEmailAndPassword,sign
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.2/firebase-app.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBPGrea6_tM5VIgISZ-7Qpuz1FznTMM4Ys",
-  authDomain: "web40-eaaed.firebaseapp.com",
-  projectId: "web40-eaaed",
-  storageBucket: "web40-eaaed.appspot.com",
-  messagingSenderId: "490967556796",
-  appId: "1:490967556796:web:56e6c84bc57061d5ac66b9"
-}; 
+  apiKey: "AIzaSyDcn3lnSF1guEXyTFub35c54I1iAoHcgUI",
+  authDomain: "web40-fbd49.firebaseapp.com",
+  projectId: "web40-fbd49",
+  storageBucket: "web40-fbd49.appspot.com",
+  messagingSenderId: "136712643464",
+  appId: "1:136712643464:web:2786d45ef395b81312903d"
+};
 const app = initializeApp(firebaseConfig);
 
 // Initialize Firebase
